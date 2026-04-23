@@ -19,6 +19,7 @@ Tematem tego projektu jest aplikacja klubu sportowego wschodniej sztuki walki. A
 ## Technologie
 
 - Frameworki: [`bolt.new` - AI wytwarzające UI aplikacji]
+    - Link do UI aplikacji: https://sports-club-manageme-744u.bolt.host
 - Narzędzia: Git
 
 ## Autorzy
